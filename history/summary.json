@@ -16,7 +16,7 @@
     "timeMonth": 89,
     "timeYear": 88,
     "dailyMinutesDown": {
-      "2023-04-30": 98,
+      "2023-04-30": 802,
       "2023-04-29": 1440,
       "2023-04-28": 1440,
       "2023-04-27": 1440,
@@ -95,11 +95,11 @@
     "url": "$MAMAZKNITWEAR",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "mamaz-knitwear",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.80%",
-    "uptimeMonth": "99.96%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "99.96%",
     "time": 4339,
     "timeDay": 8376,
@@ -107,6 +107,7 @@
     "timeMonth": 8469,
     "timeYear": 4339,
     "dailyMinutesDown": {
+      "2023-04-30": 0,
       "2023-04-27": 20,
       "2023-03-21": 19
     }
