@@ -1,7 +1,7 @@
 url: $FOREXAXIS
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2023-11-10T08:45:47.169Z
+status: up
+code: 200
+responseTime: 677
+lastUpdated: 2023-11-10T08:52:46.914Z
 startTime: 2023-02-18T18:02:53.000Z
 generator: Upptime <https://github.com/upptime/upptime>
