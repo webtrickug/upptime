@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "forex-axis",
     "status": "down",
-    "uptime": "21.05%",
+    "uptime": "21.01%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 1485,
     "dailyMinutesDown": {
-      "2024-07-25": 95,
+      "2024-07-26": 94,
+      "2024-07-25": 1440,
       "2024-07-24": 1440,
       "2024-07-23": 1440,
       "2024-07-22": 1440,
@@ -282,8 +283,7 @@
       "2023-08-08": 35,
       "2023-08-02": 43,
       "2023-08-01": 113,
-      "2023-07-31": 48,
-      "2023-07-27": 1095
+      "2023-07-31": 48
     }
   },
   {
@@ -292,18 +292,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "mamaz-knitwear",
     "status": "down",
-    "uptime": "68.41%",
+    "uptime": "68.28%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "54.81%",
-    "time": 8789,
+    "uptimeYear": "54.53%",
+    "time": 8793,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 8693,
+    "timeYear": 8692,
     "dailyMinutesDown": {
-      "2024-07-25": 95,
+      "2024-07-26": 94,
+      "2024-07-25": 1440,
       "2024-07-24": 1440,
       "2024-07-23": 1440,
       "2024-07-22": 1440,
